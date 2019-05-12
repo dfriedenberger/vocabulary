@@ -1,0 +1,31 @@
+
+#. Damas y caballeros, bienvenidos a este crucero.
+#. Meine Damen und Herren, willkommen auf dieser Kreuzfahrt.
+msgid "caballeros"
+msgstr ""
+
+#. Damas y caballeros, bienvenidos a este crucero.
+#. Meine Damen und Herren, willkommen auf dieser Kreuzfahrt.
+msgid "bienvenidos"
+msgstr ""
+
+#. Damas y caballeros, bienvenidos a este crucero.
+#. Meine Damen und Herren, willkommen auf dieser Kreuzfahrt.
+msgid "crucero"
+msgstr "Kreuzfahrt"
+
+#. Mi nombre es Clayderman y soy el pianista.
+#. Mein Name ist Clayderman, und ich bin der Pianist.
+msgid "nombre"
+msgstr ""
+
+#. Mi nombre es Clayderman y soy el pianista.
+#. Mein Name ist Clayderman, und ich bin der Pianist.
+msgid "es"
+msgstr ""
+
+#. Mi nombre es Clayderman y soy el pianista.
+#. Mein Name ist Clayderman, und ich bin der Pianist.
+msgid "pianista"
+msgstr ""
+
